@@ -1,4 +1,4 @@
-**Organ Retrieval and Collection of Health Information for Donation (ORCHID) Dataset Analysis in Python**
+**ORCHID Dataset Analysis in Python (Organ Donation & Procurement)**
 
 
 This project explores the Organ Retrieval and Collection of Health Information for Donation (ORCHID) dataset, hosted on PhysioNet. The goal is to perform exploratory data analysis (EDA) and derive insights from clinical and demographic data related to organ procurement and donation.
