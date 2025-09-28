@@ -4,8 +4,11 @@
 This project explores the Organ Retrieval and Collection of Health Information for Donation (ORCHID) dataset, hosted on PhysioNet. The goal is to perform exploratory data analysis (EDA) and derive insights from clinical and demographic data related to organ procurement and donation.
 
 In this project, I explored and analyzed the ORCHID dataset using Python. My work focused on:
+
 ***Data Cleaning & Preparation**: Handling missing values, standardizing formats, and preparing tables for analysis.
+
 ***Exploratory Data Analysis (EDA)**: Studying donor demographics, lab values, medications, and outcomes.
+
 ***Visualization**: Generating plots to identify trends in organ donation and procurement processes.
 
 This analysis demonstrates how large-scale healthcare data can be transformed into actionable insights that support research, policy-making, and clinical decision-making in transplantation.
